@@ -1,0 +1,100 @@
+/* carousel caption (the entire text) */
+.carousel-caption{
+    bottom: 200px;
+    text-align: left;
+    left: 9%;
+}
+/* carousel caption (for preye) */
+.carousel-caption h5{
+    font-size: 120px;
+}
+/* carousel caption (for allison) */
+.carousel-caption h6{
+    font-size: 70px;
+    position: 10%;
+    color: rgb(236, 67, 67);
+}
+/* navbar content hover effect */
+#navbody li :hover{
+    color: rgb(236, 67, 67);
+    box-shadow: 0 0 10px rgb(236, 67, 67), 0 0 40px rgb(236, 67, 67), 0 0 80px rgb(236, 67, 67);
+}
+/* about me heading (the "me" color)*/
+#hero span{
+    color: rgb(236, 67, 67);
+}
+/* about me section (icons color on the second colomn) */
+#dob{
+    color: rgb(236, 67, 67);
+    font-weight: bold;
+}
+/* about me section (text color on the second colomn) */
+#dob span{
+    color: black;
+    font-weight: lighter;
+}
+/* offcanve navbar button color when clicked */
+#navbtn{
+    color: rgb(236, 67, 67);
+}
+
+/* begining socials icon effect on the contact section */
+#contact{
+    background-color: rgb(28, 32, 31);
+    color: aliceblue;
+}
+#contact span{
+    color: rgb(236, 67, 67);
+}
+#contact a{
+    color: rgb(236, 67, 67);
+}
+#contact a :hover{
+    color: white;
+    box-shadow: 0 0 10px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255), 0 0 80px rgb(255, 255, 255);
+}
+/* ending socials icon effect on the contact section */
+
+/* experience section (the "i" color) */
+#ex span{
+    color: rgb(236, 67, 67);
+}
+/* secvices section (the "i" color) */
+#services span{
+    color: rgb(236, 67, 67);
+}
+/* first card */
+#card1{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;  
+    float: right;
+    margin-right: 0%;
+    margin-bottom: 5%;
+}
+/* second card */
+#card2{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    float: left;
+    margin-left: 0%;
+    margin-bottom: 5%;
+}
+/* red animated progress bar percentage */
+#pbgraphics span{
+    float: right;
+}
+/* black animated progress bar percentage */
+#pbweb span{
+    float: right;
+    color: rgb(236, 67, 67);
+}
+/* project section (the "j" color) */
+#pro span{
+    color: rgb(236, 67, 67);
+}
+/* project section (the images) */   
+#pro img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
